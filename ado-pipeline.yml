@@ -8,12 +8,12 @@ parameters:
   default:
     - ID:         'dockerhub'
       Name:       'Docker Hub'
-      Connection:  dockerhub
+      Connection:  <your-dockerhub-connector>
       Repository: 'seabopo/http-echo'
       Active:     true
     - ID:         'azurecr'
       Name:       'Azure Container Registry'
-      Connection: ''
+      Connection: '<your-azure-connection-id>'
       Repository: 'http-echo'
       Active:     true
 
