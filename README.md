@@ -10,7 +10,7 @@ a linux/amd64 image. This repo adds support for Windows Nano Server based on
 [Microsoft's PowerShell](https://hub.docker.com/_/microsoft-powershell) images and the 
 [HTTP-ECHO GitHub Project](https://github.com/hashicorp/http-echo)
 
-Sample [Docker Hub Images](https://hub.docker.com/repository/docker/seabopo/http-echo) / Tags:
+Sample [Docker Hub Images](https://hub.docker.com/r/seabopo/http-echo) / Tags:
 + seabopo/http-echo:nanoserver-1809
 + seabopo/http-echo:nanoserver-1809-v0.2.3
 + seabopo/http-echo:nanoserver-ltsc-2022
